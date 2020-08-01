@@ -7,3 +7,4 @@ dialogflow
 googletrans
 google-cloud-translate
 wikipedia
+indic-transliteration
