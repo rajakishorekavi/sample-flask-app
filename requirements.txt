@@ -9,3 +9,4 @@ google-cloud-translate
 wikipedia
 indic-transliteration
 unidecode
+pycricbuzz
