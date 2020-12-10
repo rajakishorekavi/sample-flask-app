@@ -10,3 +10,4 @@ wikipedia
 indic-transliteration
 unidecode
 pycricbuzz
+pymongo
